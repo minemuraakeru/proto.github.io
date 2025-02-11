@@ -1,1 +1,1 @@
-# akeru.min
+# https-akeru.minemura.github.io
